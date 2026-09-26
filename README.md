@@ -159,6 +159,8 @@ cms-hospital-analytics/
 
 The raw CMS datasets should be placed in `data/raw/` before running the pipeline.
 
+The complete notebook workflow was tested in the project's Python virtual environment and ran successfully from data validation through visualization.
+
 ## Limitations
 - Emergency department performance represents one aspect of hospital performance, not overall hospital quality.
 - Emergency department times are hospital-level medians, not patient-level average wait or treatment times.
