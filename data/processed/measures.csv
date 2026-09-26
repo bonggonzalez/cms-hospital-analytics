@@ -1,0 +1,31 @@
+measure_id,measure_name,condition
+EDV,Emergency department volume,Emergency Department
+GMCS,Global Malnutrition Composite Score,Electronic Clinical Quality Measure
+GMCS_Malnutrition_Diagnosis_Documented,Global Malnutrition Composite Score: Malnutrition Diagnosis Documented,Electronic Clinical Quality Measure
+GMCS_Malnutrition_Screening,Global Malnutrition Composite Score: Malnutrition Risk Screening,Electronic Clinical Quality Measure
+GMCS_Nutrition_Assessment,Global Malnutrition Composite Score: Nutrition Assessment,Electronic Clinical Quality Measure
+GMCS_Nutritional_Care_Plan,Global Malnutrition Composite Score: Nutritional Care Plan,Electronic Clinical Quality Measure
+HH_HYPER,Hospital Harm - Severe Hyperglycemia,Electronic Clinical Quality Measure
+HH_HYPO,Hospital Harm - Severe Hypoglycemia,Electronic Clinical Quality Measure
+HH_ORAE,Hospital Harm - Opioid Related Adverse Events,Electronic Clinical Quality Measure
+IMM_3,Healthcare workers given influenza vaccination,Healthcare Personnel Vaccination
+OP_18a,"Average (median) time all patients spent in the emergency department before leaving from the visit, including psychiatric/mental health patients and patients who were transferred to another facility. A lower number of minutes is better",Emergency Department
+OP_18b,"Average (median) time patients spent in the emergency department before leaving from the visit, excluding patients transferred to another facility or psychiatric care/mental health patients. A lower number of minutes is better",Emergency Department
+OP_18c,Average (median) time psychiatric/mental health patients spent in the emergency department before leaving from the visit. A lower number of minutes is better,Emergency Department
+OP_18d,Average (median) time patients spent in the emergency department before being transferred to another facility. A lower number of minutes is better,Emergency Department
+OP_22,Left before being seen,Emergency Department
+OP_23,Head CT results,Emergency Department
+OP_29,Endoscopy/polyp surveillance: appropriate follow-up interval for normal colonoscopy in average risk patients,Colonoscopy care
+OP_31,Improvement in Patient's Visual Function within 90 Days Following Cataract Surgery,Cataract surgery outcome
+OP_40,ST-Segment Elevation Myocardial Infarction (STEMI),Electronic Clinical Quality Measure
+SAFE_USE_OF_OPIOIDS,Safe Use of Opioids - Concurrent Prescribing,Electronic Clinical Quality Measure
+SEP_1,Appropriate care for severe sepsis and septic shock,Sepsis Care
+SEP_SH_3HR,Septic Shock 3-Hour Bundle,Sepsis Care
+SEP_SH_6HR,Septic Shock 6-Hour Bundle,Sepsis Care
+SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,Sepsis Care
+SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,Sepsis Care
+STK_02,Discharged on Antithrombotic Therapy,Electronic Clinical Quality Measure
+STK_03,Anticoagulation Therapy for Atrial Fibrillation/Flutter,Electronic Clinical Quality Measure
+STK_05,Antithrombotic Therapy by End of Hospital Day 2,Electronic Clinical Quality Measure
+VTE_1,Venous Thromboembolism Prophylaxis,Electronic Clinical Quality Measure
+VTE_2,Intensive Care Unit Venous Thromboembolism Prophylaxis,Electronic Clinical Quality Measure
