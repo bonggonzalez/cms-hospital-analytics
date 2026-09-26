@@ -12,3 +12,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated SQLite database
+data/hospital_quality.db
